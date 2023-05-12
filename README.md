@@ -32,10 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhimansu28&show_icons=true&locale=en&layout" alt="imhimansu28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhimansu28&show_icons=true&locale=en" alt="imhimansu28" /></p>
-<br>
-<hr>
-<h6>
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=imhimansu28&label=Profile%20Visit&pretty=false" />
-  </a>
-</h6>
+
