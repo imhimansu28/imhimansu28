@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hello !</h1>
 
 
 - 🔭 I’m currently working on [screener](screener.in)
