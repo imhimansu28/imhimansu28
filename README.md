@@ -2,20 +2,14 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-
 - 🔭 I’m currently working on [screener](screener.in)
 
-- 🌱 I’m currently learning **Ml and AI Sysytem**
-
-- 🤝 I’m looking for help with **Python Module**
 
 - 👨‍💻 All of my projects are available at [imhimansu28.github.io](imhimansu28.github.io)
 
-- 📝 I regularly write articles on [#](#)
 
 - 📫 How to reach me **webdevhimamshu@gmail.com**
 
-- 📄 Know about my experiences [#](#)
 
 - ⚡ Fun fact **I think never stop learning**
 
