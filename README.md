@@ -1,7 +1,7 @@
 <h1 align="center">Hello !</h1>
 
 
-- 🔭 I’m currently working on [screener](screener.in)
+- 🔭 I’m currently working on [screener](https://www.screener.in)
 
 
 - 👨‍💻 All of my projects are available at [imhimansu28.github.io](imhimansu28.github.io)
