@@ -27,11 +27,15 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhimansu28&theme=dracula" alt="himanshu-streak" />
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imhimansu28&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=imhimansu28&theme=radical)
 </p>
 
 ### ⚡ Fun Fact:
 > "Code all day, Gym by evening, Cricket on weekends — Repeat 💪🏏💻"
 
-![trophy](https://github-profile-trophy.vercel.app/?username=imhimansu28&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imhimansu28&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
