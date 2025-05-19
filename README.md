@@ -1,21 +1,37 @@
-<h1 align="center">Hello !</h1>
+<h1 align="center">Hi 👋, I'm Himanshu</h1>
+<h3 align="center">Python Django Developer | Tech Explorer | AI & DevOps Learner</h3>
 
-
-- 🔭 I’m currently working on [screener](https://www.screener.in)
-
-
-- 👨‍💻 All of my projects are available at [imhimansu28.github.io](imhimansu28.github.io)
-
-
-- 📫 How to reach me **webdevhimamshu@gmail.com**
-
-
-- ⚡ Fun fact **I think never stop learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/imhimansu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imhimansu28" height="30" width="40" /></a>
-<a href="https://twitter.com/imhimansu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imhimansu28" height="30" width="40" /></a>
-<a href="https://fb.com/imhimanshu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imhimanshu28" height="30" width="40" /></a>
-<a href="https://instagram.com/imhimanshu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imhimanshu28" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imhimansu28&label=Profile%20views&color=0e75b6&style=flat" alt="imhimansu28" />
 </p>
+
+- 🌱 I’m exploring **Django + Python + OpenAI + Rust**
+- 💬 Ask me about **Python, Django, Web Dev OpenAI**
+- 🏋️‍♂️ 🏏 Cricket Fan | 🍿 Web Series Saturdays
+- 📫 Reach me at: **webdevhimanshu@gmail.com**
+- 📈 My goal: **To become a Full-Stack AI + DevOps Tech Pro**
+
+
+### 🛠️ Languages and Tools:
+<p align="left" style="padding=10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+</p>
+
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhimansu28&theme=radical" alt="himanshu-streak" />
+</p>
+
+### ⚡ Fun Fact:
+> "Code all day, Gym by evening, Cricket on weekends — Repeat 💪🏏💻"
+
+![trophy](https://github-profile-trophy.vercel.app/?username=imhimansu28&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imhimansu28&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
