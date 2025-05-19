@@ -30,7 +30,7 @@
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imhimansu28&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=imhimansu28&theme=radical)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=imhimansu28&theme=dracula)
 </p>
 
 ### ⚡ Fun Fact:
