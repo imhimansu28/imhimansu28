@@ -26,7 +26,7 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhimansu28&theme=radical" alt="himanshu-streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhimansu28&theme=dracula" alt="himanshu-streak" />
 </p>
 
 ### ⚡ Fun Fact:
