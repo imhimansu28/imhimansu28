@@ -1,27 +1,42 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">Python Django Developer | Tech Explorer | AI and DevOps Learner</h3>
+# Hi, I’m Himanshu 👋 (imhimansu28)
+> Software developer · Lifelong learner 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imhimansu28&label=Profile%20views&color=0e75b6&style=flat" alt="imhimansu28" />
-</p>
+[![Website](https://img.shields.io/badge/website-Portfolio-informational?style=flat&logo=google-chrome)](https://codewithcoffee.blog/about) [![Email](https://img.shields.io/badge/-himansu%40example.com-success?style=flat&logo=gmail&logoColor=white)](mailto:webdevhimanshu@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imhimansu28) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/imhimansu28)
 
-- 🌱 I’m exploring **Django + Python + OpenAI + Rust**
-- 💬 Ask me about **Python, Django, Web Dev OpenAI**
-- 🏋️‍♂️ 🏏 Cricket Fan | 🍿 Web Series Saturdays
-- 📫 Reach me at: **webdevhimanshu@gmail.com**
-- 📈 My goal: **To become a Full-Stack AI + DevOps Tech Pro**
+---
 
-### 📊 GitHub Stats:
+### About Me
+I build intuitive, reliable software solutions and enjoy contributing to open-source projects. I focus on clean code, practical architecture, and learning modern tools that help teams move faster.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhimansu28&theme=dracula" alt="himanshu-streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imhimansu28&theme=dracula" alt="himanshu-streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=imhimansu28&theme=dracula" alt="himanshu-streak" />
-</p>
+- 🔭 Our Blog: ![codewithcoffee.blog](codewithcoffee.blog)
+- 🌱 Learning: Cloud-native apps, AI/LLM integration, and systems design
+- 💬 Ask me about: JavaScript/TypeScript, React, Node.js, Python, and DevOps basics
+- ⚡ Fun fact: I love optimizing developer workflows and automating repetitive tasks
+
+---
+
+### Skills & Tools
+- **Languages**: JavaScript · TypeScript · Python · Java
+- **Frontend**: React · Next.js · TailwindCSS · HTML · CSS
+- **Backend**: Django · REST
+- **DevOps / Infra:** Docker · GitHub Actions · AWS · CI/CD
+- **Databases**: PostgreSQL · MySQL
+---
+
+### GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhimansu28&layout=compact&theme=radical)
+
+Activity graph:
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhimansu28&theme=react-dark&hide_border=true)
+
+---
+
+### How I work
+- I prefer small, iterative releases: plan → build → test → ship
+- Focus on automated tests and CI pipelines to keep quality high
+- Document decisions in READMEs and lightweight design notes
+
+---
 
 ### ⚡ Fun Fact:
 > "Code all day, Gym by evening, Cricket on weekends — Repeat 💪🏏💻"
-
-
-
-
